@@ -1,1 +1,1 @@
-## Simple boilerplate for TypeScript/Webpac
+## Simple boilerplate for TypeScript/Webpack
